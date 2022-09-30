@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lolpago.github.io/static/css/main.ff60b8ec.css",
+    "main.js": "/lolpago.github.io/static/js/main.56d7e0a9.js",
+    "static/media/LolpagoLoading.jpg": "/lolpago.github.io/static/media/LolpagoLoading.11c0344e1999d4434788.jpg",
+    "static/media/MagnifyingGlass.png": "/lolpago.github.io/static/media/MagnifyingGlass.a81e5f50b9462f42f82b.png",
+    "index.html": "/lolpago.github.io/index.html",
+    "main.ff60b8ec.css.map": "/lolpago.github.io/static/css/main.ff60b8ec.css.map",
+    "main.56d7e0a9.js.map": "/lolpago.github.io/static/js/main.56d7e0a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff60b8ec.css",
+    "static/js/main.56d7e0a9.js"
+  ]
+}
